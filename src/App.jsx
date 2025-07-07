@@ -6,7 +6,7 @@ function App() {
     <>
      <h3>Welcome to React</h3>
      <Button>{"click me"}</Button>
-     <Input placeholder={"search a Name"} className={"inputfield"}/>
+     <Input placeholder={"search a Name"} className={"inputfield"} />
     </>
   )
 }
