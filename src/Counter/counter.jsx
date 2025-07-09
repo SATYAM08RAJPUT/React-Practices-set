@@ -1,4 +1,5 @@
 import { useState } from "react"
+import "./conunter.css"
 
 const Counter = () => {
     const [number,setNumber] =useState(0)
@@ -12,7 +13,7 @@ const Counter = () => {
     }
     return(
         <>
-        <div>
+        <div className="btn-container">
             <button onClick={decreseFun}>Decrease</button>
             {number}
                 <button onClick={incrseFun}>Increase</button>

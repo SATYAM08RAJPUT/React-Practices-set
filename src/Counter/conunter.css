@@ -1,0 +1,14 @@
+.btn-container{
+    display: flex;
+        padding: 10px 14px;
+        width: 300px;
+   margin-top: 20px;
+    border-radius: 5px;
+    border: solid 2px wheat;
+    justify-content: center;
+}
+button{
+    padding: 5px 8px;
+    background-color: gainsboro;
+    border: navy;
+}
