@@ -13,7 +13,7 @@ button{
     border: navy;
     cursor: pointer;
     width: 100px;
-    border-radius: 5px;
+    border-radius: 8px;
 }
 .count{
     padding: 10px;
